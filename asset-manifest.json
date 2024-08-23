@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/css/main.f6684d28.css",
-    "main.js": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/js/main.0194eba9.js",
-    "static/js/453.fb35860a.chunk.js": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/js/453.fb35860a.chunk.js",
-    "static/media/mango.png": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/media/mango.a4b3f7f733d9e6abb157.png",
-    "static/media/strawberry.png": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/media/strawberry.3a3766a3e2c935b064d4.png",
-    "static/media/grapes.png": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/media/grapes.2c8147c4c853792c9d1b.png",
-    "static/media/apple.png": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/media/apple.d12747e1000d83d815e2.png",
-    "index.html": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/index.html",
-    "main.f6684d28.css.map": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/css/main.f6684d28.css.map",
-    "main.0194eba9.js.map": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/js/main.0194eba9.js.map",
-    "453.fb35860a.chunk.js.map": "/Naveen00222/Adding-Shopping-items-using-reactjs.git/static/js/453.fb35860a.chunk.js.map"
+    "main.css": "/Adding-Shopping-items-using-reactjs/static/css/main.f6684d28.css",
+    "main.js": "/Adding-Shopping-items-using-reactjs/static/js/main.b95551a1.js",
+    "static/js/453.fb35860a.chunk.js": "/Adding-Shopping-items-using-reactjs/static/js/453.fb35860a.chunk.js",
+    "static/media/mango.png": "/Adding-Shopping-items-using-reactjs/static/media/mango.a4b3f7f733d9e6abb157.png",
+    "static/media/strawberry.png": "/Adding-Shopping-items-using-reactjs/static/media/strawberry.3a3766a3e2c935b064d4.png",
+    "static/media/grapes.png": "/Adding-Shopping-items-using-reactjs/static/media/grapes.2c8147c4c853792c9d1b.png",
+    "static/media/apple.png": "/Adding-Shopping-items-using-reactjs/static/media/apple.d12747e1000d83d815e2.png",
+    "index.html": "/Adding-Shopping-items-using-reactjs/index.html",
+    "main.f6684d28.css.map": "/Adding-Shopping-items-using-reactjs/static/css/main.f6684d28.css.map",
+    "main.b95551a1.js.map": "/Adding-Shopping-items-using-reactjs/static/js/main.b95551a1.js.map",
+    "453.fb35860a.chunk.js.map": "/Adding-Shopping-items-using-reactjs/static/js/453.fb35860a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6684d28.css",
-    "static/js/main.0194eba9.js"
+    "static/js/main.b95551a1.js"
   ]
 }
